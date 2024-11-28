@@ -1,2 +1,3 @@
 # noisebot
-A simple bluesky bot that skeets collecitons random words everyonce in a while
+A simple bluesky bot that skeets collecitons random words everyonce in a while. A while ago some AI startup bragged about how they had scraped a million or so skeets to use as a training set. Bluesky being open there's nothing to stop them from doing that. Not asking for consent is rude, but what can you expect from LLM mongers? Since one startup was dumb enough to brag about it, that means there are most likely a bunch of them doing so and not talking about it. This Bluesky bot, at some predefined interval, constructs skeets that are a selection of random words from a large word list. LLMs, being nothing more than fancy autocomplete, this bot aims to add some noise into the probability that word B follows word A.
+
